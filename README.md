@@ -1,17 +1,16 @@
 <h1 align="center">Hi 👋, I'm Paul Unger</h1>
-<h3 align="center">A passionate developer from Canada</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mystackoverflows&label=Profile%20views&color=0e75b6&style=flat" alt="mystackoverflows" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mystackoverflows" alt="mystackoverflows" /></a> </p>
 
-- 🔭 I’m currently working on [no-paywall-plex](https://github.com/MyStackOverflows/no-paywall-plex)
+- 🔭 I’m currently working on: [no-paywall-plex](https://github.com/MyStackOverflows/no-paywall-plex)
 
-- 🌱 I’m currently learning **React and Kotlin**
+- 🌱 I’m currently learning: **React and Kotlin**
 
-- 📫 How to reach me **io.paulunger@gmail.com**
+- 📫 How to reach me: **io.paulunger@gmail.com**
 
-- ⚡ Fun fact **I can solve a Rubik's cube in about 30 seconds**
+- ⚡ Fun fact: **I can solve a Rubik's cube in about 30 seconds**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
