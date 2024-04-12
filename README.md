@@ -12,7 +12,6 @@
 
 - ⚡ Fun fact: **I can solve a Rubik's cube in about 30 seconds**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
